@@ -1,4 +1,4 @@
-package oops.SOLID.singleResponsibilityPrinciple.after.client;
+package oops.SOLID.singleResponsibilityPrinciple.after.clients;
 
 import java.io.IOException;
 import java.util.List;
